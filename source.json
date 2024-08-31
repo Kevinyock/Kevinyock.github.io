@@ -1,13 +1,13 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"Kevinyock's VRChat Meta Factory",
+    "id":"com.vrchat.kevinyockvr",
+    "url":"https://Kevinyock.github.io/template-package-listing/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
+        "email":"kevinyockvr@gmail.com",
+        "name":"Kevinyock",
         "url":"https://hello.vrchat.com"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Base Line Factory for Creating VRChat Content",
     "infoLink":{
         "url":"http://github.com/vrchat-community/template-package-listing",
         "text":"View on GitHub"

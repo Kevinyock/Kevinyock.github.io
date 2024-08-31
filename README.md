@@ -3,9 +3,8 @@
 | Copyright (C) 2024 Kevinyock - All Rights Reserved        |
 | You may use this code for Strictly VRChat Avatar Projects |
 |                                                           |
-| You are not allowed to distribute this file without,if an |
-| would like a copy of this, they must be linked to the     |     
-| original repository here.                                 |
+| You are allowed to distribute this file, You must credit  |
+| me and link the github.io page where you retrieved from   |   
 |                                                           |
 | You are allowed to modify the code under the strict       |
 | context that such modification must be submitted as Pull  |
