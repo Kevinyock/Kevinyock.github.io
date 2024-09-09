@@ -1,0 +1,18 @@
+{
+  "name": "com.kevinyockvr.avatarfactory",
+  "displayName": "Kevinyock's Avatar Factory",
+  "version": "0.0.1",
+  "description": "Avatar Factory Designed to streamline the process of avatar creation.",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.avatars": "3.7.0"
+  },
+  "author": {
+    "name": "Kevinyock",
+    "email": "kevinyockvr@gmail.com",
+    "url": ""
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "D:\\GitHub\\Kevalyn\\Packages\\com.kevinyockvr.avatarfactory"
+}
